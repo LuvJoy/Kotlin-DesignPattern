@@ -1,4 +1,4 @@
-package StrategyPattern
+package DesignPattern.StrategyPattern
 
 interface MoveStrategy {
     fun move()

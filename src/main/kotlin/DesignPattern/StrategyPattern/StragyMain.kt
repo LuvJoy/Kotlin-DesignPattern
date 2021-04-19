@@ -1,4 +1,4 @@
-package StrategyPattern
+package DesignPattern.StrategyPattern
 
 fun main() {
     val jetRobot = Robot("전투기", GunAttack(), MoveByWing())

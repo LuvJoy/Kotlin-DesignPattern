@@ -1,4 +1,4 @@
-package DelegatePattern.KotlinReference
+package DesignPattern.DelegatePattern.KotlinReference
 
 interface Base {
     fun print()

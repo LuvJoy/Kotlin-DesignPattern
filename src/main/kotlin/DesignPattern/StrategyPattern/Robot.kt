@@ -1,4 +1,4 @@
-package StrategyPattern
+package DesignPattern.StrategyPattern
 
 class Robot(
     private var name: String,

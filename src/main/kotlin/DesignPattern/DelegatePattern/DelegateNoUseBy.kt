@@ -1,4 +1,4 @@
-package DelegatePattern
+package DesignPattern.DelegatePattern
 
 // https://codechacha.com/ko/kotlin-deligation-using-by/
 

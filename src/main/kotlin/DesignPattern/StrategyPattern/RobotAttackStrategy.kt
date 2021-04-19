@@ -1,4 +1,4 @@
-package StrategyPattern
+package DesignPattern.StrategyPattern
 
 interface AttackStrategy {
     fun attack()
